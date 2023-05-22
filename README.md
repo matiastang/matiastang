@@ -1,4 +1,12 @@
-### Hi there 👋
+<!--
+ * @Author: matiastang
+ * @Date: 2023-05-22 17:25:26
+ * @LastEditors: matiastang
+ * @LastEditTime: 2023-05-22 18:00:41
+ * @FilePath: /matiastang/README.md
+ * @Description: GitHub profile
+-->
+### Web Developer
 
 <!--
 **matiastang/matiastang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Skills
+
+* React、Vue、iOS
+* JavaScript、TypeScript、Swift/OC、Python
+* Node.js、Go
+* GitHub、GitLab
+* Nginx、Linux
