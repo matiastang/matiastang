@@ -19,8 +19,8 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # - name: checkout
-      #   uses: actions/checkout@master
+      - name: checkout
+        uses: actions/checkout@master
       # generate svg. https://github.com/Platane/snk
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate svg
@@ -40,4 +40,9 @@ jobs:
       #     build_dir: dist
       #   env:
       #     GITHUB_TOKEN: ${{ secrets.MT_TOKEN }}
+      - name: commit and push
+        run: |
+          git add -A
+          git commit -m 'add svg'
+          git push -f https://${{ secrets.MT_TOKEN }}@github.com/matiastang/matiastang master
 
