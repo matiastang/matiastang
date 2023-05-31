@@ -2,7 +2,7 @@
  * @Author: matiastang
  * @Date: 2023-05-22 17:25:26
  * @LastEditors: matiastang
- * @LastEditTime: 2023-05-31 14:18:43
+ * @LastEditTime: 2023-05-31 14:27:02
  * @FilePath: /matiastang/README.md
  * @Description: GitHub profile
 -->
@@ -23,12 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Skills
+### 📚 My Skills
 
-* React、Vue、iOS
-* JavaScript、TypeScript、Swift/OC、Python
-* Node.js、Go
-* GitHub、GitLab
-* Nginx、Linux
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,stackoverflow,vscode,vim,js,ts,html,css,jquery,nodejs,python,react,vue,mongo,redis,mysql,md,linux,bash,zsh,docker,kubernetes,nginx,ios,swift,oc,go)
 
 ![matiastang github stats](https://github-readme-stats.vercel.app/api?username=matiastang&theme=github)
