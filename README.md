@@ -2,7 +2,7 @@
  * @Author: matiastang
  * @Date: 2023-05-22 17:25:26
  * @LastEditors: matiastang
- * @LastEditTime: 2023-05-31 15:55:32
+ * @LastEditTime: 2023-05-31 17:02:26
  * @FilePath: /matiastang/README.md
  * @Description: GitHub profile
 -->
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?perline=15&i=react,vue,vite,webpack,js,ts,html,css,sass,svg,babel,bootstrap,redux,svelte,jquery,github,gitlab,git,vscode,docker,kubernetes,stackoverflow,vim,redis,mysql,md,nodejs,python,linux,bash,nginx,swift,go,sqlite,laravel,mongodb,postman)	
 
-![matiastang github stats](https://github-readme-stats.vercel.app/api?username=matiastang&theme=github)
+<!-- ![matiastang github stats](https://github-readme-stats.vercel.app/api?username=matiastang&theme=github) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/matiastang/matiastang/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/matiastang/matiastang/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/matiastang/matiastang/blob/output/github-snake.svg" />
 </picture>
