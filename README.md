@@ -2,7 +2,7 @@
  * @Author: matiastang
  * @Date: 2023-05-22 17:25:26
  * @LastEditors: matiastang
- * @LastEditTime: 2023-05-31 14:27:02
+ * @LastEditTime: 2023-05-31 15:55:32
  * @FilePath: /matiastang/README.md
  * @Description: GitHub profile
 -->
@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 
 ### 📚 My Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,stackoverflow,vscode,vim,js,ts,html,css,jquery,nodejs,python,react,vue,mongo,redis,mysql,md,linux,bash,zsh,docker,kubernetes,nginx,ios,swift,oc,go)
+![My Skills](https://skillicons.dev/icons?perline=15&i=react,vue,vite,webpack,js,ts,html,css,sass,svg,babel,bootstrap,redux,svelte,jquery,github,gitlab,git,vscode,docker,kubernetes,stackoverflow,vim,redis,mysql,md,nodejs,python,linux,bash,nginx,swift,go,sqlite,laravel,mongodb,postman)	
 
 ![matiastang github stats](https://github-readme-stats.vercel.app/api?username=matiastang&theme=github)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
