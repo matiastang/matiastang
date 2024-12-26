@@ -2,11 +2,11 @@
  * @Author: matiastang
  * @Date: 2023-05-22 17:25:26
  * @LastEditors: matiastang
- * @LastEditTime: 2023-05-31 17:02:26
+ * @LastEditTime: 2024-12-26 19:08:08
  * @FilePath: /matiastang/README.md
  * @Description: GitHub profile
 -->
-### Web Developer
+### Full-Stack Developer
 
 <!--
 **matiastang/matiastang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
