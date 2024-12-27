@@ -2,20 +2,20 @@
  * @Author: matiastang
  * @Date: 2023-05-22 17:25:26
  * @LastEditors: matiastang
- * @LastEditTime: 2024-12-27 15:49:44
+ * @LastEditTime: 2024-12-27 15:59:46
  * @FilePath: /matiastang/README.md
  * @Description: GitHub Matiastang
 -->
 ### 👨 Matiastang
 
-![GitHub](https://img.shields.io/badge/GitHub-%40matiastang-%23000000?style=flat&logo=github&logoColor=white) ![License](https://img.shields.io/github/license/matiastang/matiastang)
+![GitHub](https://img.shields.io/badge/GitHub-%40matiastang-%23?style=flat&logo=github&logoColor=white) ![License](https://img.shields.io/github/license/matiastang/matiastang)
 
-##### 🏫 [Chengdu University of Information Technology (CUIT)](https://www.cuit.edu.cn)
-##### 🎓 Bachelor's in Electronic Science and Technology
-##### 🏢 [DatumWealth](https://www.datumwealth.com) [QUTKE](http://www.qtflows.com)
-##### 💻 Full Stack Developer / Senior Frontend Developer
-##### 💼 Focused on integrating AI technologies with company products to drive intelligent innovation and upgrades
-##### 🏠 Chengdu, Sichuan, China
+#### 🏫 [Chengdu University of Information Technology (CUIT)](https://www.cuit.edu.cn)
+#### 🎓 Bachelor's in Electronic Science and Technology
+#### 🏢 [DatumWealth](https://www.datumwealth.com) and [QUTKE](http://www.qtflows.com)
+#### 💻 Full Stack Developer / Senior Frontend Developer
+#### 💼 Focused on integrating AI technologies with company products to drive intelligent innovation and upgrades
+#### 🏠 Chengdu, Sichuan, China
 
 <!-- snake -->
 
