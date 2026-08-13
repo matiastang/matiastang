@@ -1,26 +1,27 @@
 <!--
  * @Author: matiastang
- * @Date: 2023-05-22 17:25:26
+ * @Date: 2026-08-13 16:41:22
  * @LastEditors: matiastang
- * @LastEditTime: 2025-05-07 16:36:02
- * @FilePath: /matiastang/README.md
- * @Description: GitHub Matiastang
+ * @LastEditTime: 2026-08-13 16:54:50
+ * @FilePath: /matiastang/README.zh-CN.md
+ * @Description:
 -->
-**English** | [简体中文](./README.zh-CN.md)
 
-### 👨 Daoyong Tang （唐道勇）
+[English](./README.md) | **简体中文**
+
+### 👨 唐道勇 (Daoyong Tang)
 
 ![GitHub](https://img.shields.io/badge/GitHub-%40matiastang-%23?style=flat&logo=github&logoColor=white) ![License](https://img.shields.io/github/license/matiastang/matiastang)
 
-#### 🏫 [Chengdu University of Information Technology (CUIT)](https://www.cuit.edu.cn)
-#### 🎓 Bachelor's in Electronic Science and Technology
-#### 💻 AI Application R&D Engineer / Full Stack Engineer
-#### 💼 Focused on applying AI technologies to products
-#### 🏢 [Alloomi](https://alloomi.ai/) and [OpenLoomi](https://github.com/melandlabs/openloomi/) AI Application R&D Engineer
-#### 🏢 [DatumWealth](https://www.datumwealth.com/) and [QUTKE](http://www.qtflows.com/) Full Stack Engineer
-#### 🏢 [BBD](https://www.bbdservice.com/) Web Engineer
-#### 🏢 [Yunxi Tech](https://www.yunxitech.cn/) Frontend Engineer
-#### 🏠 Chengdu, Sichuan, China
+#### 🏫 [成都信息工程大学 (CUIT)](https://www.cuit.edu.cn)
+#### 🎓 电子科学与技术专业 · 本科
+#### 💻 AI 应用研发工程师 / 全栈工程师
+#### 💼 专注于将 AI 技术应用于产品
+#### 🏢 [Alloomi](https://alloomi.ai/) 与 [OpenLoomi](https://github.com/melandlabs/openloomi/) AI 应用研发工程师
+#### 🏢 [DatumWealth](https://www.datumwealth.com/) 与 [QUTKE](http://www.qtflows.com/) 全栈工程师
+#### 🏢 [BBD](https://www.bbdservice.com/) WEB工程师
+#### 🏢 [云玺科技](https://www.yunxitech.cn/) 大前端工程师
+#### 🏠 中国 · 四川 · 成都
 
 <!-- snake -->
 
@@ -30,13 +31,9 @@
   <img alt="github-snake" src="https://github.com/matiastang/matiastang/blob/output/github-snake.svg" />
 </picture>
 
-<!-- GitHub Stats -->
+### 📚 我的技能
 
-<!-- ![matiastang github stats](https://github-readme-stats.vercel.app/api?username=matiastang&theme=github) -->
-
-### 📚 My Skills
-
-<!-- Languages & Frontend -->
+<!-- 语言 & 前端 -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" />
@@ -49,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" />
 </p>
 
-<!-- Backend & AI -->
+<!-- 后端 & AI -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
@@ -60,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow" />
 </p>
 
-<!-- Ops & Tools -->
+<!-- 运维 & 工具 -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
